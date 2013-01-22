@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<AdXML>
+
+<Response>
+<Report>
+<html_general>
+  <content reportKey='AAdvancedResumes-EG-EduSky' reportTitle='SiteReport'>
+    <reportTable name='StandardHeader' title='AboutThisReport'>
+      <row>
+        <TimethattheReportwasRun><![CDATA[Wed Jan 09 15:23:19 EST 2013]]></TimethattheReportwasRun>
+      </row>
+      <row>
+        <StartDate><![CDATA[01/08/2013]]></StartDate>
+      </row>
+      <row>
+        <EndDate><![CDATA[01/08/2013]]></EndDate>
+      </row>
+      <row>
+        <SiteCurrencyHeading><![CDATA[$siteCurrency$]]></SiteCurrencyHeading>
+      </row>
+    </reportTable>
+    <reportTable name='Revenue.Site.Base.T105.05' title='ExecutiveSummarySiteRevenue'/>
+    <reportTable name='Revenue.Site.Base.T130.13' title='AdvertiserRevenueReport'/>
+    <reportTable name='Revenue.Site.Base.T135.03' title='CampaignBookedRevenueSummary'/>
+    <reportTable name='Revenue.Site.Base.T191.01' title='RevenueandPerformancebyCountry(Top500)'/>
+    <reportTable name='Revenue.Site.Base.T191.03' title='RevenueandPerformancebyPosition'/>
+    <reportTable name='Revenue.Site.Base.T191.05' title='RevenueAndPerformanceByPage'/>
+  </content>
+</html_general>
+</Report>
+</Response>
+</AdXML>

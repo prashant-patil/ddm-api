@@ -1,0 +1,399 @@
+<?xml version='1.0'?>
+<AdXML>
+
+<Response>
+<Report>
+<html_general>
+  <content reportKey='AAdvancedResumes-EG-EduSky' reportTitle='CampaignReport'>
+    <reportTable name='StandardHeader' title='AboutThisReport'>
+      <row>
+        <TimethattheReportwasRun><![CDATA[Wed Jan 09 15:27:45 EST 2013]]></TimethattheReportwasRun>
+      </row>
+      <row>
+        <StartDate><![CDATA[01/08/2013]]></StartDate>
+      </row>
+      <row>
+        <EndDate><![CDATA[01/08/2013]]></EndDate>
+      </row>
+      <row>
+        <Format><![CDATA[$format$]]></Format>
+      </row>
+    </reportTable>
+    <reportTable name='Delivery.Campaign.Segment.T110.01' title='PerformancebySegment'/>
+    <reportTable name='Delivery.Campaign.Base.T155.01' title='CampaignPriorityReport'/>
+    <reportTable name='Delivery.Campaign.Base.T100.03' title='ExecutiveSummary'>
+      <row>
+        <CampaignID><![CDATA[AAdvancedResumes-EG-EduSky]]></CampaignID>
+        <Impressions><![CDATA[479]]></Impressions>
+        <Clicks><![CDATA[2]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0.4175]]></CTR>
+        <ReportStart><![CDATA[2013-01-08]]></ReportStart>
+        <ReportEnd><![CDATA[2013-01-08]]></ReportEnd>
+      </row>
+    </reportTable>
+    <reportTable name='Delivery.Campaign.Base.T606.01' title='SitesbyDate'>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[albuquerque.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[atlanta.employmentguide.com]]></Site>
+        <Imps><![CDATA[9]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[baltimore.employmentguide.com]]></Site>
+        <Imps><![CDATA[5]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[buffalo.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[charlotte.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[chicago.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[columbia.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[columbus.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[dallas.employmentguide.com]]></Site>
+        <Imps><![CDATA[8]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[denver.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[detroit.employmentguide.com]]></Site>
+        <Imps><![CDATA[5]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[fortlauderdale.employmentguide.com]]></Site>
+        <Imps><![CDATA[4]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[gainesville.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[hamptonroads.employmentguide.com]]></Site>
+        <Imps><![CDATA[5]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[houston.employmentguide.com]]></Site>
+        <Imps><![CDATA[4]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[hyl.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[indianapolis.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[kansascity.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[lasvegas.employmentguide.com]]></Site>
+        <Imps><![CDATA[7]]></Imps>
+        <Clicks><![CDATA[1]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[14.2857]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[lehighvalley.employmentguide.com]]></Site>
+        <Imps><![CDATA[4]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[longisland.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[losangeles.employmentguide.com]]></Site>
+        <Imps><![CDATA[5]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[louisville.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[memphis.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[miami.employmentguide.com]]></Site>
+        <Imps><![CDATA[4]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[milwaukee.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[nashville.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[neworleans.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[newyorkcity.employmentguide.com]]></Site>
+        <Imps><![CDATA[23]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[oklahomacity.employmentguide.com]]></Site>
+        <Imps><![CDATA[4]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[orangecounty.employmentguide.com]]></Site>
+        <Imps><![CDATA[6]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[orlando.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[panhandle.employmentguide.com]]></Site>
+        <Imps><![CDATA[8]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[philadelphia.employmentguide.com]]></Site>
+        <Imps><![CDATA[3]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[pittsburgh.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[raleigh.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[sacramento.employmentguide.com]]></Site>
+        <Imps><![CDATA[4]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[saltlakecity.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[sanantonio.employmentguide.com]]></Site>
+        <Imps><![CDATA[6]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[sanfrancisco.employmentguide.com]]></Site>
+        <Imps><![CDATA[11]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[seattle.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[stlouis.employmentguide.com]]></Site>
+        <Imps><![CDATA[11]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[tampa.employmentguide.com]]></Site>
+        <Imps><![CDATA[2]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[triad.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[tulsa.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[twincities.employmentguide.com]]></Site>
+        <Imps><![CDATA[1]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[washingtondc.employmentguide.com]]></Site>
+        <Imps><![CDATA[5]]></Imps>
+        <Clicks><![CDATA[0]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0]]></CTR>
+      </row>
+      <row>
+        <Date><![CDATA[2013-01-08]]></Date>
+        <Site><![CDATA[www.employmentguide.com]]></Site>
+        <Imps><![CDATA[303]]></Imps>
+        <Clicks><![CDATA[1]]></Clicks>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0.33]]></CTR>
+      </row>
+    </reportTable>
+    <reportTable name='Delivery.Campaign.Search.T904.01' title='ImpressionsbySiteandKeyword'/>
+    <reportTable name='Delivery.Campaign.Base.T204.01' title='CreativeDeliveryInformation'>
+      <row>
+        <No><![CDATA[1]]></No>
+        <ImageID><![CDATA[CorinthianSkyScraper.gif]]></ImageID>
+        <ImageName><![CDATA[AAdvancedResumes-EG-EduSky]]></ImageName>
+        <Imps><![CDATA[479]]></Imps>
+        <ofTotal dataFormat='2' dataSuffix='%'><![CDATA[100]]></ofTotal>
+        <Clicks><![CDATA[2]]></Clicks>
+        <ofTotal dataFormat='2' dataSuffix='%'><![CDATA[100]]></ofTotal>
+        <CTR dataFormat='2' dataSuffix='%'><![CDATA[0.4175]]></CTR>
+      </row>
+    </reportTable>
+    <reportTable name='Delivery.Campaign.Base.T9990.01' title='SpiderRobotDeliveryInformation'>
+      <row>
+        <No><![CDATA[1]]></No>
+        <DayOfMonth><![CDATA[2013-01-08]]></DayOfMonth>
+        <Imps><![CDATA[8]]></Imps>
+        <ofTotal dataFormat='2' dataSuffix='%'><![CDATA[100]]></ofTotal>
+        <Clicks><![CDATA[0]]></Clicks>
+        <ofTotal dataFormat='2' dataSuffix='%'><![CDATA[0]]></ofTotal>
+      </row>
+    </reportTable>
+  </content>
+</html_general>
+</Report>
+</Response>
+</AdXML>
